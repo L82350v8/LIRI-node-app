@@ -33,7 +33,7 @@ To retrieve the data that will power this app, you'll need to send requests to t
 
 ### Setup Instructions
 
-1. Navigate to the root of your project and run `npm init -y. This will initialize a `package.json` file for your project. The `package.json` file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.
+1. Open your Command Prompt terminal and navigate to your cloned project folder. Run the command line `npm install` to add the above referenced node.js packages.
 
 2. Make a .gitignore file and add the following lines to it. This will tell git not to track these files, and thus they won't be committed to Github.
 
@@ -100,7 +100,7 @@ TWITTER_SCREEN_NAME=your-twitter-screen-name
    
 9. Either login to your existing Spotify account or create a new one (a free account is fine) and log in.
 
-10. Once logged in, navigate to <https://developer.spotify.com/my-applications/#!/applications/create> to register       a new application to be used with the Spotify API. When finished, click the "complete" button.
+10. Once logged in, navigate to <https://developer.spotify.com/my-applications/#!/applications/create> to register a new application to be used with the Spotify API. When finished, click the "complete" button.
 
 11. On the next screen, scroll down to where you see your client id and client secret. Copy these values and paste them into your `SPOTIFY_CLIENT_ID` and `SPOTIFY_CLIENT_SECRET` values within the .env file.
 
