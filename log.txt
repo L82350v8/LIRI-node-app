@@ -1,0 +1,66 @@
+
+----------------------------------------------------------------------------------------------------------------------
+Node arguments passed are: 
+C:\Program Files\nodejs\node.exe,C:\Users\jkarr\ku\code\apps\LIRI-node-app\liri.js,my-tweets
+Twitter tweets for screen name DustyRider001 are: 
+-----------------------------------< tweet 1 of 5 >------ was created on: Fri Mar 30 22:18:05 +0000 2018
+@LastWeekTonight  Keep the hilarity coming John Oliver !  Your show always has me busting out laughing and increasi… https://t.co/ffMUd6SEGq
+-----------------------------------< tweet 2 of 5 >------ was created on: Fri Mar 30 22:05:08 +0000 2018
+Wishing everyone a Happy, Thankful and Peaceful #GoodFriday
+-----------------------------------< tweet 3 of 5 >------ was created on: Fri Mar 30 20:52:59 +0000 2018
+Stop watching Fox News!  #DestroyABullyIn4Words
+-----------------------------------< tweet 4 of 5 >------ was created on: Fri Mar 30 20:40:06 +0000 2018
+@TheAmericansFX Thanks to everyone who works on The Americans ! The stories are well written and the acting is exce… https://t.co/mqKsgTApW5
+-----------------------------------< tweet 5 of 5 >------ was created on: Fri Mar 30 20:34:03 +0000 2018
+@TheAlienistTNT  Thank you to everyone who works on The Alienist for creating such a great show ! The acting, the s… https://t.co/XY4U048xMH
+----------------------------------------------------------------------------------------------------------------------
+Node arguments passed are: 
+C:\Program Files\nodejs\node.exe,C:\Users\jkarr\ku\code\apps\LIRI-node-app\liri.js,spotify-this-song,hold,on
+-----------------------------------< song 1 of 3 >------
+The song's name: Hold On
+From the album: Hold On
+Performed by the artist(s): Chord Overstreet
+Preview link to this song: < no preview link available >
+-----------------------------------< song 2 of 3 >------
+The song's name: Just Hold On
+From the album: Just Hold On
+Performed by the artist(s): Steve Aoki
+Performed by the artist(s): Louis Tomlinson
+Preview link to this song: https://p.scdn.co/mp3-preview/8d728867e6951fadd40709dfc34b9050c8e7cef5?cid=c73c0447642d4cc286a7da94145c80ba
+-----------------------------------< song 3 of 3 >------
+The song's name: Hold On
+From the album: Boys & Girls
+Performed by the artist(s): Alabama Shakes
+Preview link to this song: https://p.scdn.co/mp3-preview/07218c8b686a6a1ef0d4bfbd300bc39b481835c5?cid=c73c0447642d4cc286a7da94145c80ba
+----------------------------------------------------------------------------------------------------------------------
+Node arguments passed are: 
+C:\Program Files\nodejs\node.exe,C:\Users\jkarr\ku\code\apps\LIRI-node-app\liri.js,movie-this,open,range
+                 Title: Open Range
+                  Year: 2003
+           IMDB Rating: 7.5
+Rotten Tomatoes Rating: 80%
+Country where produced: USA
+              Language: English
+                  Plot: A former gunslinger is forced to take up arms again when he and his cattle crew are threatened by a corrupt lawman.
+                Actors: Robert Duvall, Kevin Costner, Annette Bening, Michael Gambon
+----------------------------------------------------------------------------------------------------------------------
+Node arguments passed are: 
+C:\Program Files\nodejs\node.exe,C:\Users\jkarr\ku\code\apps\LIRI-node-app\liri.js,do-what-it-says
+----------------------------------------------------------------------------------------------------------------------
+Node arguments passed are: 
+C:\Program Files\nodejs\node.exe,C:\Users\jkarr\ku\code\apps\LIRI-node-app\liri.js,spotify-this-song,"I Want it That Way"
+-----------------------------------< song 1 of 3 >------
+The song's name: I Want It That Way
+From the album: The Hits--Chapter One
+Performed by the artist(s): Backstreet Boys
+Preview link to this song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c73c0447642d4cc286a7da94145c80ba
+-----------------------------------< song 2 of 3 >------
+The song's name: I Want It That Way
+From the album: The Essential Backstreet Boys
+Performed by the artist(s): Backstreet Boys
+Preview link to this song: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=c73c0447642d4cc286a7da94145c80ba
+-----------------------------------< song 3 of 3 >------
+The song's name: I Want It That Way
+From the album: Millennium
+Performed by the artist(s): Backstreet Boys
+Preview link to this song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=c73c0447642d4cc286a7da94145c80ba
